@@ -14,7 +14,7 @@ Install postman
 https://www.postman.com/downloads/
 
 get mahasiswa list
-<img src='img/get_mahasiswa.PNG' alt='mahasiswa list'/>
+<img src='img/get_mahasiswa.png' alt='mahasiswa list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
