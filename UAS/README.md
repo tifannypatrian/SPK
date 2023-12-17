@@ -14,7 +14,7 @@ Install postman
 https://www.postman.com/downloads/
 
 get mahasiswa list
-<img src='img/get_mahasiswa.png' alt='mahasiswa list'/>
+<img src='img/get_mahasiswa.PNG' alt='mahasiswa list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
@@ -26,13 +26,13 @@ get recommendations wp
 Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`
 
 INPUT:
-	{
-		"prestasi": 1, 
-		"ekstrakurikuler": 2, 
-		"rekomendasi_dosen": 3, 
-		"rencana_studi": 4, 
-		"tes_kualifikasi": 5
-	}
+{
+	"prestasi": 1, 
+	"ekstrakurikuler": 2, 
+	"rekomendasi_dosen": 3, 
+	"rencana_studi": 4, 
+	"tes_kualifikasi": 5
+}
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
